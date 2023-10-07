@@ -1,3 +1,15 @@
+# v0.0.2 (Sat Oct 07 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Update index.html ([@ParvathiRNair](https://github.com/ParvathiRNair))
+
+#### Authors: 1
+
+- Parvathi ([@ParvathiRNair](https://github.com/ParvathiRNair))
+
+---
+
 # v0.0.1 (Sat Oct 07 2023)
 
 :tada: This release contains work from a new contributor! :tada:
